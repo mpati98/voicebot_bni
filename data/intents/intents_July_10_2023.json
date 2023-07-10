@@ -1,0 +1,178 @@
+{
+    "intents": [
+      {
+        "tag": "BNI_Intro",
+        "patterns": [
+          "What is BNI?",
+          "What is BNI Vietnam?",
+          "Introduction to BNI Vietnam.",
+          "Tell us a little about BNI Vietnam."
+        ],
+        "responses": [
+          "BNI - BUSINESS NETWORK INTERNATIONAL là tổ chức kết nối thương mại lớn nhất và thành công nhất trên thế giới hiện nay, được Tiến sĩ Ivan Misner sáng lập vào năm 1985. Cho đến nay BNI Toàn cầu đã trao cho nhau 12.2 triệu cơ hội kinh doanh (referrals) với tổng trị giá 16.9 tỷ USD. BNI VIỆT NAM đã phôi thai ở Việt Nam từ đầu năm 2007 nhưng do một số khó khăn do sự khác biệt về văn hóa, hội nhập nên đến tháng 8 năm 2010 BNI mới chính thức thành lập tại Việt Nam. Hiện tại, BNI Việt Nam đã có 8,266 thành viên với 213 Chapter tại các vùng, tỉnh thành lớn trên cả nước. Trong đó, vùng BNI HCM CENTRAL 6 nằm trong Top 10 vùng phát triển tốt nhất trong hệ thống BNI toàn cầu do bà Anna Nguyễn Thị Bích Hằng điều hành với 07 Chapter cùng 446 thành viên Chủ doanh nghiệp.",
+          "29bef721-ab0d-4265-b14a-8093916bab56"
+        ]
+      },
+      {
+        "tag": "BNI_Director",
+        "patterns": [
+          "Who is the main responsible person in the Ho Chi Minh area?",
+          "Who is the Ho Chi Minh Regional Director?",
+          "About Ms. ANNA Nguyen Thi Bich Hang.",
+          "Who is Mrs. ANNA Nguyen Thi Bich Hang?"
+        ],
+        "responses": [
+          "GIÁM ĐỐC VÙNG BNI HCM CENTRAL 6 là bà ANNA Nguyễn Thị Bích Hằng. Nguyên Tổng Giám Đốc BNI Việt Nam. Nguyên Tổng Giám Đốc ActionCOACH Việt Nam. Tổng Giám đốc ActionCOACH CBD Firm. Đã điều hành và giúp ActionCOACH CBD Firm đạt giải Top 2 Thế giới (Xếp hạng 2/83 quốc gia). Là người phụ nữ đầu tiên đưa nhà huấn luyện Việt Nam và Doanh Nghiệp Việt Nam được vinh doanh trên Toàn Cầu. Với mục tiêu xây dựng vùng BNI HCM Central 6 trở thành vùng mang danh Diamond và mang lại nhiều giá trị hơn nữa dành riêng cho cộng đồng doanh nghiệp trong bối cảnh nền kinh tế Việt Nam đang bước vào một quỹ đạo phát triển mới, bà Anna Hằng Nguyễn hy vọng được đồng hành cùng các doanh nghiệp phát triển bền vững, góp phần vào sự phát triển chung & khẳng định vị thế Việt Nam trên nền kinh tế toàn cầu.",
+          "708c9126-0532-44a2-8c74-3fd73f3cf949"
+        ]
+      },
+      {
+        "tag": "BNI_Benefits",
+        "patterns": [
+          "What are the benefits of joining the organization?",
+          "What are the benefits of joining the organization?",
+          "What do I get when I join BNI?"
+        ],
+        "responses": [
+          "Những lợi ích tuyệt vời dành cho chủ doanh nghiệp khi tham gia BNI Hồ Chí Minh Central 6: 1. KẾT NỐI KINH DOANH, giúp chủ doanh nghiệp quảng bá thương hiệu, trao đổi giao thương và kết nối các cơ hội hợp tác kinh doanh trong cộng đồng CEO BNI đồng thời kiến tạo thương hiệu cá nhân cho Chủ doanh nghiệp - Bí quyết để sở hữu nguồn Marketing vô hạn. 2. ĐỒNG HÀNH, chỉ có tại các Chapter thuộc vùng BNI HCM Central 6. Chủ doanh nghiệp được huấn luyện theo Power Team bởi các nhà Huấn luyện doanh nghiệp xuất sắc nhất đến từ ActionCOACH CBD Firm, giúp phát triển nền móng vững chắc cho doanh nghiệp, nâng cao năng lực lãnh đạo, quản trị, chiến lược và vận hành doanh nghiệp hiệu quả. 3. ĐÓN ĐẦU XU THẾ, ứng dụng thực tế theo nền kinh tế số cùng kỷ nguyên số, cập nhật thêm các kiến thức, kỹ năng và xu hướng mới nhất ở cả Việt Nam và Thế giới.",
+          "765edfe1-b9c5-412c-b3cb-9e2098e07c60"
+        ]
+      },
+      {
+        "tag": "BNI_Participate",
+        "patterns": [
+          "Who are the participants BNI?",
+          "What are the requirements to participate BNI?",
+          "Who can join BNI?"
+        ],
+        "responses": [
+          "Đối tượng tham gia là chủ doanh nghiệp tại thành phố Hồ Chí Minh (Riêng ngành Bảo hiểm nhân thọ/Phi nhân thọ/Ngân hàng thì Giám đốc chi nhánh hoặc Trưởng phòng có thể tham gia) và chưa là thành viên của bất kì một chapter nào.",
+          "29dd2a45-400c-4e5b-b9ee-bdce76bf9846"
+        ]
+      },
+      {
+        "tag": "BNI_Address",
+        "patterns": [
+          "Give me contact information of BNI",
+          "BNI's address.",
+          "Where is BNI Ho Chi Minh?"
+        ],
+        "responses": [
+          "Thông tin liên hệ: Địa chỉ: 90-92 Lê Thị Riêng, P. Bến Thành, Q.1, TP.HCM. Email:hcmc6@bni.vn. Hotline: 1800.8087",
+          "7787ae04-eca5-48f5-bacf-94fcf2fb7b88"
+        ]
+      },
+      {
+        "tag": "BNI_Vision",
+        "patterns": [
+          "What is BNI's vision?",
+          "What does BNI aim for?"
+        ],
+        "responses": [
+          "Tầm nhìn của BNI - Thay đổi cách Thế giới làm kinh doanh. Giúp Thành viên nhận thức rằng Networking là gieo trồng không săn bắt và phải vun đắp các mối quan hệ. Gắn liền thương hiệu BNI với marketing truyền miệng. Khi nói về marketing truyền miệng người ta sẽ nghĩ tới BNI. Trở thành tổ chức kết nối kinh doanh tốt nhất, lớn nhất và được thừa nhận rộng khắp trên toàn cầu. Lãnh đạo sáng tạo, đề xuất phương hướng và hỗ trợ cho các Giám đốc, Ban điều hành và Thành viên của từng Chapter. Đào tạo, hướng dẫn và thông tin tốt hơn cho Thành viên về quy trình triển khai kinh doanh áp dụng hình thức marketing truyền miệng. Liên tục tiếp nhận và trả lời phản hồi từ Thành viên. Gia tăng số lượng Thành viên trên toàn Thế giới. Đánh giá thành tựu đạt được bằng những phương pháp đo lường truyền thống và cải tiến.",
+          "9df0a232-cdb4-44e9-b5cd-4b026ef76879"
+        ]
+      },
+      {
+        "tag": "BNI_Statement",
+        "patterns": [
+          "BNI . mission statement",
+          "What is the mission of BNI?"
+        ],
+        "responses": [
+          "Sứ mệnh của BNI là giúp các Thành viên gia tăng cơ hội kinh doanh thông qua chương trình trao đổi cơ hội kinh doanh (referral) một cách có cấu trúc, tích cực và chuyên nghiệp, để giúp các Thành viên phát triển những mối quan hệ lâu dài và có ý nghĩa, với những ngành nghề kinh doanh chất lượng.",
+          "96277e47-d729-45a8-8a4b-9857e1d6c9c5"
+        ]
+      },
+      {
+        "tag": "BNI_Philosophy",
+        "patterns": [
+          "What is the philosophy of BNI?",
+          "What philosophy does BNI follow?"
+        ],
+        "responses": [
+          "Triết lý thành công tại BNI nghĩa là trở thành một Thành viên tích cực và hỗ trợ của tổ chức, dựa trên sự tương trợ lẫn nhau. Điều này đòi hỏi sự cam kết chung với các Thành viên khác theo triết lý “Cho là nhận”: Bằng việc cho đi cơ hội kinh doanh, bạn cũng sẽ nhận lại cơ hội kinh doanh cho mình.",
+          "e30b526e-ba2e-49bb-8e18-0fb5ff8a8cf1"
+        ]
+      },
+      {
+        "tag": "BNI_Core",
+        "patterns": [
+          "Core Values of BNI",
+          "What core values does BNI have?",
+          "What core values does BNI always uphold?"
+        ],
+        "responses": [
+          "BNI luôn giữ 7 giá trị cốt lõi: 1. Cho là Nhận, Cho Là Nhận là triết lý cơ bản của BNI. Chúng tôi minh chứng cho điều đó bằng việc trao cơ hội kinh doanh cho người khác, đổi lại bạn cũng sẽ nhận được cơ hội kinh doanh. 2. Học tập suốt đời, Chúng tôi tin vào sự hoàn thiện liên tục những kỹ năng phát triển bản thân và kỹ năng chuyên môn. BNI cung cấp các cơ hội đa dạng để hỗ trợ học tập suốt đời. 3. Truyền thống và đổi mới, Truyền thống trong một tổ chức cho chúng ta biết nguồn gốc chúng ta phát triển từ đâu và đặt nền móng. Chúng ta là ai, tuy nhiên chúng ta vẫn luôn phải tìm cách đổi mới sáng tạo. 4. Thái độ tích cực, BNI cung cấp một môi trường cho phép bạn bao quanh mình những người luôn muốn giúp bạn thành công. 5. Xây dựng các mối quan hệ, Kết nối kinh doanh là nuôi trồng các kết nối với những con người mới thay vì đi săn các mối quan hệ đó. Mọi người luôn muốn làm kinh doanh với những người mà họ biết và tin tưởng. Đó chính là việc nuôi dưỡng các mối quan hệ đó. 6. Tinh thần trách nhiệm. Nếu bạn muốn có được một hệ thống kết nối cá nhân có quyền năng, bạn phải có tính trách nhiệm. Nếu không, hệ thống đó trở thành một nhóm hoạt động xã hội. 7. Sự công nhận, Sự ghi nhận đóng góp của mọi người là rất quan trọng.",
+          "3abae59a-5809-4265-85cd-7fc56c1cab4d"
+        ]
+      },
+      {
+        "tag": "BNI_leads",
+        "patterns": [
+          "Where Can I Meet Potential Customers?",
+          "Few examples of Leads."
+        ],
+        "responses": [
+          "Khi bắt đầu nhắm tới thị trường ngách cụ thể, bạn sẽ phát hiện ra nhiều nơi và cơ hội khác so với những sự kiện kết nối thông thường. Dưới đây là một vài ví dụ về các thị trường mục tiêu cụ thể mà bạn nên giao lưu, kết nối để tìm kiếm khách hàng: Đối với các chủ doanh nghiệp nhỏ là Phòng Thương Mại, Hiệp Hội tại địa phương, các nhóm giới thiệu kinh doanh và các trang mạng xã hội. Về văn phòng đại diện của các tập đoàn lớn trong khu vực của bạn là các câu lạc bộ, tổ chức phi lợi nhuận và các hoạt động thiện nguyện. Còn người tiêu dùng thì tại các sự kiện dành cho trẻ em: các giải đấu thiếu nhi, hoạt động trường lớp, v.v…",
+          "d080e28c-c16d-4385-8bcb-47bd4c2696a6"
+        ]
+      },
+      {
+        "tag": "BNI_secret",
+        "patterns": [
+          "TABLE OF GAINS What is business connection?",
+          "What is the secret to business connections?"
+        ],
+        "responses": [
+          "Bí quyết để kết nối kinh doanh hiệu quả được gói gọn trong 5 yếu tố: 1. Goals - Mục tiêu. Mục tiêu là kế hoạch về tài chính, học vấn và công việc mà bạn muốn đạt được cho bản thân hoặc cho những người mà bạn quan tâm. Cần xác định thật rõ ràng và cụ thể những mục tiêu cá nhân và đồng thời có cái nhìn tổng quan về mục tiêu của người khác. 2. Accomplishments - Thành tựu. Thành tựu của một người sẽ giúp bạn hiểu thêm về họ vì người khác thích nói về những gì họ cảm thấy tự hào. Do đó, bạn cần tán gẫu ngoài công việc để khuyến khích đối phương chia sẻ về thành tựu họ đạt được. Ngoài ra bạn cũng nên chia sẻ về thành tựu của bản thân để tìm kiếm các điểm chung mang lại lợi ích tương hổ cho nhau. 3. Interests - Sở thích. Những gì bạn thích làm sẽ kết nối bạn với đối phương vì mọi người sẵn sàng dành thời gian cho những ai có cùng sở thích giống họ. Khi hiểu rõ sở thích của đối phương, bạn sẽ dễ dàng giúp đỡ họ bằng nhiều cách khác nhau, đồng thời bạn cũng nên chia sẻ sở thích của mình với họ. Nếu cả hai có nhiều sở thích giống nhau thì mối quan hệ sẽ trở nên bền chặt hơn. 4. Networks - Mạng lưới mối quan hệ. Mỗi người đều có một mạng lưới mối quan hệ sâu rộng trong công việc hoặc trong cuộc sống hàng ngày. Câu hỏi đặt ra là bạn hiểu rõ họ tới đâu? Những người bạn quen biết sẽ có mối quan hệ gián tiếp hoặc trực tiếp tới những người bạn chưa quen biết. Mỗi người chúng ta đều có nhiều nguồn mối quan hệ vẫn chưa được tận dụng triệt để. 5. Skills - Kỹ năng. Bạn càng hiểu rõ về kỹ năng của đối tác kinh doanh thì càng trang bị kiến thức tốt hơn để sẵn sàng giới thiệu họ mỗi khi có khách hàng tìm kiếm người sở hữu các kỹ năng đó. Vì vậy hãy xác định kỹ năng đặc biệt bạn sở hữu và chia sẻ thông tin này với đối tác kinh doanh để từ đó phát triển mối quan hệ hơn.",
+          "8fa915bf-c741-43f1-a82e-cd4418239674"
+        ]
+      },
+      {
+        "tag": "BNI_networking",
+        "patterns": [
+          "Networking is planting, not hunting",
+          "Why say Networking is planting, not hunting?"
+        ],
+        "responses": [
+          "Về bản chất, Networking cũng giống như việc gieo trồng. Chỉ cần cam kết nắm vững những điều cần biết để khai thác hiệu quả tiềm năng của “hạt giống mối quan hệ”, bạn sẽ gặt hái được vụ mùa bội thu những mối quan hệ đôi bên cùng có lợi và tăng trưởng kinh doanh bền vững. Bạn có thể tìm hiểu thêm tại https://bni.vn/networking-la-gieo-trong-khong-san-bat/",
+          "1a6666e8-2571-4d43-a9ee-d00807046ba1"
+        ]
+      },
+      {
+        "tag": "BNI_reference",
+        "patterns": [
+          "Reference questions when connecting business",
+          "How should I start the conversation?"
+        ],
+        "responses": [
+          "5 câu hỏi trọng tâm để bạn tham khảo khi kết nối kinh doanh: 1. Bạn thích nhất điều gì về công việc hiện tại? 2. Bạn nói rằng lĩnh vực kinh doanh của mình là ____. Vậy động cơ khiến bạn bước chân vào lĩnh vực này là gì? 3. Bạn thường kết nối kinh doanh ở đâu? 4. Một số thách thức lớn nhất bạn đang gặp phải là gì? 5. Tôi có thể làm gì để giúp đỡ bạn?",
+          "39f063f7-2024-4cb8-93c5-5261f12053e4"
+        ]
+      },
+      {
+        "tag": "BNI_mouth",
+        "patterns": [
+          "Risk of damaging reputation when giving business opportunities",
+          "Word of mouth marketing tips"
+        ],
+        "responses": [
+          "Trong Marketing truyền miệng, niềm tin và uy tín luôn nằm trên cùng một làn ranh, vì vậy bạn cần làm đúng những gì đã cam kết. Bạn phải hành xử chuyên nghiệp sao cho không hủy hoại uy tín của người khác. Bạn nên lưu ý những điểm sau: Trao referral đồng nghĩa trao đi một phần uy tín bản thân. Bất kỳ ai cũng có thể hủy hoại uy tín. Và ngay cả “Sự chung thủy” theo thời gian cũng không còn chung thủy như trước.",
+          "96708c89-0bdf-49d4-9eee-0f90757946c9"
+        ]
+      },
+      {
+        "tag": "BNI_10tips",
+        "patterns": [
+          "10 tips to help you master the art of business networking",
+          "Is there any secret to mastering the art of networking in business?"
+        ],
+        "responses": [
+          "Sau đây là 10 bí quyết giúp bạn làm chủ nghệ thuật kết nối kinh doanh: 1. Tương tác với khách hàng được giới thiệu. 2. Duy trì thái độ tích cực. 3. Đáng tin cậy. 4. Luyện tập kỹ năng lắng nghe. 5. Không ngừng kết nối. 6. Bày tỏ lòng biết ơn. 7. Giúp đỡ người khác. 8. Thể hiện sự chân thành. 9. Làm chủ nghệ thuật kết nối kinh doanh",
+          "3d68fefd-80d8-49e2-b03e-3de32de47907"
+        ]
+      }
+    ]
+  }
+  
